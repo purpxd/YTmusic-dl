@@ -1,0 +1,9 @@
+music/
+__pycache__/
+virtualenv/
+xfer.zsh
+*.qrc
+*.spec
+*.exe
+*.ifp
+*.ui

@@ -1,0 +1,11 @@
+#clear_dl:hover, #bulk_add:hover, #bulk_dl:hover, #playlist_btn:hover, #single_btn:hover, #folder_btn:hover, #single_dl_btn:hover, #playlist_dl_btn:hover, #bulk_btn:hover, #clear_search:hover, #folder_browse_btn:hover {
+	background-color: #7289da; 
+}
+
+#playlist_btn:checked, #single_btn:checked, #folder_btn:checked, #bulk_btn:checked{
+	background-color: #7289da; 
+}
+
+#ButtonStack {
+	background-color: #2b2b2b;
+}
